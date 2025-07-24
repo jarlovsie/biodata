@@ -1,0 +1,23 @@
+[
+    {
+        "nama" : "zhuxin",
+        "role" : "mage",
+        "counters" :{
+                 "1" : "lolita",
+                 "2" : "aamon",
+                 "3" : "natalia",
+                 "4" : "kadita",
+                 "5" : "edith"
+        },
+
+        "win-rate" : "50.68%",
+        "pick-rate" : "0,22%",
+        "ban-rate" : "2.92%",
+        "skill" : [
+            "crimson-butterflies",
+            "flutering-grace",
+            "lantren-flare",
+            "crimson-beacon"
+        ]
+    }
+]
